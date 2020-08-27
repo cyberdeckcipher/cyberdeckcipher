@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Ulisses 👋
+
+https://img.shields.io/github/followers/ulissessigma?style=social
+
+I'm a game dev currently working with dotnet and javascript 
 
 <!--
 **ulissessigma/ulissessigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
