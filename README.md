@@ -6,4 +6,4 @@
 </div>
 
 I'm a game dev currently working with fullstack dotnet things and javascript things too :)
-This is my personal github.
+<br>This is my personal github.
