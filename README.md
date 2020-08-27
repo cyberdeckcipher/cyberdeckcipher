@@ -2,7 +2,7 @@
 <br>
 <div>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ulissessigma?style=social">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/ulissessigma?style=social">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/ulissessigma?style=social"><p/>
 </div>
 <br>
 
