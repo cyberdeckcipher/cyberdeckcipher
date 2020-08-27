@@ -1,7 +1,7 @@
 ### Hi there, I'm Ulisses 👋
 <br>
 <div>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ulissessigma?style=social">:soon:
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ulissessigma?style=social">  :soon:
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ulissessigma?style=social">
 </div>
 <br>
