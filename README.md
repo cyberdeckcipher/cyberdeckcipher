@@ -1,6 +1,6 @@
 ### Hi there, I'm Ulisses 👋
 
-https://img.shields.io/github/followers/ulissessigma?style=social
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ulissessigma?style=social">
 
 I'm a game dev currently working with dotnet and javascript 
 
