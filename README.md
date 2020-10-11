@@ -8,7 +8,7 @@
 <br>
 <div>
   <p>
-    :warning::construction: take a look at my most important projects here: <a href="http://ulissessigma.github.io">:link: ulissessigma.github.io</a>
+     take a look at my most important projects here: <a href="http://ulissessigma.github.io">:link::warning::construction:ulissessigma.github.io:link:</a>
   </p>
 </div>
 <div>
@@ -17,7 +17,13 @@
       <br>This is my personal github.
   </p>
 </div>
-<br><br>
+<br>
+<div>
+  <p>
+       Want to see more of my work? take a look at my <a href="https://www.artstation.com/ulissessigma">:link:artstation page:link:</a>
+  </p>
+</div>
+<br>
 <h3 align="left">
   Languages and Tools:
 </h3>
