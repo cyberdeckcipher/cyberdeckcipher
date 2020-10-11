@@ -8,7 +8,7 @@
 <br>
 <div>
   <p>
-    :warning::construction: take a look at my most important projects here: <a href="ulissessigma.github.io">:link: ulissessigma.github.io</a>
+    :warning::construction: take a look at my most important projects here: <a href="http://ulissessigma.github.io">:link: ulissessigma.github.io</a>
   </p>
 </div>
 <div>
