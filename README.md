@@ -8,7 +8,7 @@
 <br>
 <div>
   <p>
-     take a look at my most important projects here: <a href="http://ulissessigma.github.io">:link::warning::construction:ulissessigma.github.io:link:</a>
+     take a look at my most important projects here: <a href="http://ulissessigma.github.io">:link::warning::construction:ulissessigma.github.io:construction::warning::link:</a>
   </p>
 </div>
 <div>
