@@ -13,7 +13,7 @@
 </div>
 <div>
   <p>
-       I'm a game dev currently working with fullstack dotnet things and javascript things too :)
+       I'm a game dev currently working with Salesforce. But with fullstack dotnet and javascript things too :)
       <br>This is my personal github.
   </p>
 </div>
