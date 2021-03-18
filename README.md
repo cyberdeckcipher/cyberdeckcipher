@@ -19,9 +19,11 @@
 </div>
 <br>
 <div>
-  <p>
-       Want to see more of my work? Take a look at my <a href="https://www.artstation.com/ulissessigma">:link:artstation page:link:</a>
-  </p>
+  <p> Want to see more of my work? Take a look at my... </p>
+  <ol>
+    <li><a href="https://www.artstation.com/ulissessigma">:link:Artstation page:link:</a></li>
+    <li><a href="https://sketchfab.com/UlissesSigma">:link:Sketchfab page:link:</a></li>
+  </ol>
 </div>
 <br>
 <h3 align="left">
