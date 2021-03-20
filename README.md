@@ -31,7 +31,7 @@
 </h3>
 <p align="left">
     <a href="https://www.w3schools.com/cs/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="csharp" width="40" height="40" />
+      <img src="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_wordmark.svg" alt="csharp" width="40" height="40" />
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank">
       <img src="https://en.wikipedia.org/wiki/.NET_Core#/media/File:.NET_Logo.svg" alt="dotnet" width="40" height="40" />
@@ -46,10 +46,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40" /> 
     </a>
     <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://de.wikipedia.org/wiki/MySQL#/media/Datei:MySQL_logo.svg" alt="mysql" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" alt="mysql" width="40" height="40" />
     </a>
       <a href="https://firebase.google.com/" target="_blank"> 
-      <img src="https://en.wikipedia.org/wiki/Firebase#/media/File:Firebase_Logo.svg" alt="firebase" width="40" height="40" />
+      <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40" />
