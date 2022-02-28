@@ -8,12 +8,12 @@
 <br>
 <div>
   <p>
-     Take a look at my most important projects here: <a href="http://ulissessigma.github.io">:link::warning::construction:ulissessigma.github.io:construction::warning::link:</a>
+     Take a look at my most important projects here: [under construction] <a href="http://ulissessigma.github.io">:link::warning::construction:ulissessigma.github.io:construction::warning::link:</a>
   </p>
 </div>
 <div>
   <p>
-       I'm a game dev currently working with Salesforce. But with fullstack dotnet and javascript things too :)
+       I'm a ADHD game dev currently working with Salesforce. But with fullstack dotnet and javascript things too :)
       <br>This is my personal github.
   </p>
 </div>
@@ -72,7 +72,7 @@
     <a href="https://unity.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> 
     </a>
-       <a href="www.salesforce.com" target="_blank"> 
+       <a href="https://www.salesforce.com/" target="_blank"> 
       <img src="https://cdn.iconscout.com/icon/free/png-256/salesforce-3-569548.png" alt="Salesforce" width="40" height="40" />
     </a>
        <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm" target="_blank"> 
