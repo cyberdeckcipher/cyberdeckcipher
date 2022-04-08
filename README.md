@@ -60,11 +60,17 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> 
     </a>
+    <a href="https://krita.org/en/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/800px-Calligrakrita-base.svg.png" alt="krita" width="40" height="40" />
+    </a>
     <a href="https://www.photoshop.com/en" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="photoshop" width="40" height="40" />
     </a>
     <a href="https://blender.org" target="_blank"> 
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
+    </a>
+  <a href="https://openscad.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/OpenSCAD-logo.png" alt="OpenSCAD" width="40" height="40" />
     </a>
      <a href="https://ephtracy.github.io/" target="_blank"> 
       <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto/p/0663f025-8444-4977-a084-a03b68d536f5/4136432304/magicavoxel-6814__magicavoxel_icon.png" alt="MagicaVoxel" width="40" height="40" />
