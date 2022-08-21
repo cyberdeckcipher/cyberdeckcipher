@@ -34,7 +34,7 @@
       <img src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" alt="csharp" width="40" height="40" />
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt="dotnet" width="40" height="40" />
+      <img src="https://iconape.com/wp-content/files/pd/353150/png/microsoft-net-framework-logo.png" alt="dotnet" width="40" height="40" />
     </a>
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" />
