@@ -81,7 +81,4 @@
        <a href="https://www.salesforce.com/" target="_blank"> 
       <img src="https://cdn.iconscout.com/icon/free/png-256/salesforce-3-569548.png" alt="Salesforce" width="40" height="40" />
     </a>
-       <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm" target="_blank"> 
-      <img src="https://www.sonarqube.org/features/multi-languages/index/apex-color.svg" alt="Apex Salesforce" width="40" height="40" />
-    </a>
 </p>
