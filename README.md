@@ -13,13 +13,13 @@
 </div>
 <div>
   <p>
-       I'm a ADHD game dev currently working with Salesforce. But with fullstack dotnet and javascript things too :)
-      <br>This is my personal github.
+       I'm a ADHD game dev currently working with Salesforce. But with cybersecurity and fullstack dotnet / javascript things too :)
+      <br>This is my personal github! All my projects here are opensource! so feel free to look arround 
   </p>
 </div>
 <br>
 <div>
-  <p> Want to see more of my work? Take a look at my... </p>
+  <p> Want to see some of my art work? Take a look at my... </p>
   <ul>
     <li><a href="https://www.artstation.com/cyberdeckcipher">:link:Artstation page:link:</a></li>
     <li><a href="https://sketchfab.com/cyberdeckcipher">:link:Sketchfab page:link:</a></li>
