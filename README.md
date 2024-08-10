@@ -1,14 +1,14 @@
 <div>
   <h3 >Hi there, I'm Ulisses 👋</h3>
   <br>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ulissessigma?style=social">
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ulissessigma?style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/cyberdeckcipher?style=social">
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/cyberdeckcipher?style=social">
 </div>
 <br>
 <br>
 <div>
   <p>
-     Take a look at my most important projects here: [under construction] <a href="http://ulissessigma.github.io">:link::warning::construction:ulissessigma.github.io:construction::warning::link:</a>
+     Take a look at my most important projects here: [under construction] <a href="http://cyberdeckcipher.github.io">:link::warning::construction:cyberdeckcipher.github.io:construction::warning::link:</a>
   </p>
 </div>
 <div>
@@ -21,8 +21,8 @@
 <div>
   <p> Want to see more of my work? Take a look at my... </p>
   <ul>
-    <li><a href="https://www.artstation.com/ulissessigma">:link:Artstation page:link:</a></li>
-    <li><a href="https://sketchfab.com/UlissesSigma">:link:Sketchfab page:link:</a></li>
+    <li><a href="https://www.artstation.com/cyberdeckcipher">:link:Artstation page:link:</a></li>
+    <li><a href="https://sketchfab.com/cyberdeckcipher">:link:Sketchfab page:link:</a></li>
   </ul>
 </div>
 <br>
@@ -79,6 +79,6 @@
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> 
     </a>
        <a href="https://www.salesforce.com/" target="_blank"> 
-      <img src="https://cdn.iconscout.com/icon/free/png-256/salesforce-3-569548.png" alt="Salesforce" width="40" height="40" />
+      <img src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg" alt="Salesforce" width="40" height="40" />
     </a>
 </p>
